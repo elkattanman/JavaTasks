@@ -1,0 +1,1 @@
+0001,Cafe-Small,7.5,0002,Cafe-Medium,10.0,0003,Cafe-Double,12.0,0004,NESCafe,15.0,0005,Tee,5.0,0006,Hot-Shecolate,20.0,
